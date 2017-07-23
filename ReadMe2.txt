@@ -9,4 +9,7 @@ First, it will commit.
 Second, it will perform a pull (grabs the updated information from the remote repo).
 Finally, it will push.
 
-https://i.stack.imgur.com/MgaV9.png
+Useful explanation
+https://stackoverflow.com/questions/30038999/differences-between-commit-commit-and-push-commit-and-sync
+
+
