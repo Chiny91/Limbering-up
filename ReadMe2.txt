@@ -1,10 +1,12 @@
-This is a test file
+Commit will simply make record of your changes that you have made on your local machine.
+It will not mark the change in the remote repository.
 
-Probably...
-... much later, here I am opening this file on my desktop.
+Commit and Push will do the above and push it to the remote repository.
+This means that any changes you have made will be saved to the remote repository as well.
 
-Aha, I think I've cracked it !
+Commit and Sync does three things.
+First, it will commit.
+Second, it will perform a pull (grabs the updated information from the remote repo).
+Finally, it will push.
 
-Nearly there.
-
-Whew.
+https://i.stack.imgur.com/MgaV9.png
