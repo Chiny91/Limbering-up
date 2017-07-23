@@ -11,5 +11,3 @@ Finally, it will push.
 
 Useful explanation
 https://stackoverflow.com/questions/30038999/differences-between-commit-commit-and-push-commit-and-sync
-
-
