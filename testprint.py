@@ -22,7 +22,7 @@ def main(stdscr):
         # End of screen reached
         pass
 
-     #  Pause and wait for key press
+    #  Pause and wait for key press
     stdscr.getch()
 
 # Initializes curses and calls another function,
