@@ -25,7 +25,9 @@ def main(stdscr):
      #  Pause and wait for key press
     stdscr.getch()
 
-# Gracefully exit curses and tidy up terminal
+# Initializes curses and calls another function,
+# which is the rest of curses-using application,
+# then gracefully exits curses and tidies up terminal
 curses.wrapper(main)
 
 # Standard program end with same indent as the program start
