@@ -21,6 +21,5 @@ curses.nocbreak()
 curses.echo()
 curses.endwin()
 
-
 # Python appears to need a line with same indent as the program start
 raise SystemExit
