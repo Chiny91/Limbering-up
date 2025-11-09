@@ -14,7 +14,7 @@ def main(stdscr):
         stdscr.addstr(7, 0, "Hello World", curses.color_pair(1))
         stdscr.addstr(8, 0, "Red text", curses.color_pair(2))
         stdscr.addstr(9, 0, "GREEN ALERT!", curses.color_pair(3))
-        stdscr.addstr(10, 0, "Boris is the biggest English traitor since Tostig Godwinson", curses.color_pair(7))
+        stdscr.addstr(10, 0, "Boris Johnson is the biggest English traitor since Tostig Godwinson", curses.color_pair(7))
         stdscr.addstr(12, 0, "Hit any key to end program")
         stdscr.refresh()
 
